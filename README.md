@@ -23,7 +23,7 @@
       <h1>Contact Information</h1>
       <ul>
         <li><b>Email: </b> moowais638@gmail.com</li>
-        <li><b>Phone: </b>03264917496</li>
+        <li><b>Phone: </b>03264917422</li>
         <li><b>LinkedIn: </b> MuhammadOwaisGUll</li>
       </ul>
     </section>
